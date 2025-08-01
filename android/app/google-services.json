@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471629026455",
+    "project_id": "task-management-app-2ca0d",
+    "storage_bucket": "task-management-app-2ca0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471629026455:android:cceb40ae745951b62945d2",
+        "android_client_info": {
+          "package_name": "com.nipl.schedule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcxyTfhkcJ8D01JwuXCRHm7wGxFbuy5WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471629026455:android:15caa546bd7dcf482945d2",
+        "android_client_info": {
+          "package_name": "com.task_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcxyTfhkcJ8D01JwuXCRHm7wGxFbuy5WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

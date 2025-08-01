@@ -1,0 +1,10 @@
+pluginManagement { includeBuild("../node_modules/@react-native/gradle-plugin") }
+plugins { id("com.facebook.react.settings") }
+extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> ex.autolinkLibrariesFromCommand() }
+rootProject.name = 'Task_Management'
+include ':app'
+includeBuild('../node_modules/@react-native/gradle-plugin')
+// include ':react-native-async-storage_async-storage'
+include ':react-native-firebase_app'
+include ':react-native-community_netinfo'
+include ':react-native-community_viewpager'
